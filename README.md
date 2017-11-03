@@ -1,6 +1,6 @@
 ![List of Ingredients](https://i.imgur.com/30bgJWe.png)
 
-# List of Ingredients
+# [List of Ingredients](https://intense-journey-41202.herokuapp.com/)
 
 This repo serves as a companion to the tutorial [Rails 5 API + ActiveAdmin + create-react-app on Heroku, over on Medium](https://medium.com/superhighfives/rails-5-api-activeadmin-create-react-app-on-heroku-de5481b7ec0b), and the end result should look something like this:
 
